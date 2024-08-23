@@ -3,7 +3,7 @@ Takes your name, age and location as inputs and displays a personalised message 
 <br>
 
 ## How to use it:
-<br>
+
 1. Open your terminal
 
 2. Navigate to where the file is stored
