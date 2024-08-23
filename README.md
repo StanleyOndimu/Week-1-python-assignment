@@ -8,8 +8,7 @@ Takes your name, age and location as inputs and displays a personalised message 
 <br>
 2. Navigate to where the file is stored<br>
 <br>
-3. Run the program in your terminal by running:<br>
-<br>
+3. Run the program in your terminal by running:
         ``` python user_input.py ``` 
-   <br>
+        <br>
 4. Input your information and you will get your personalised message
