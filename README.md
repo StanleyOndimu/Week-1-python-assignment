@@ -10,6 +10,6 @@ Takes your name, age and location as inputs and displays a personalised message 
 <br>
 3. Run the program in your terminal by running:<br>
 <br>
-  ``` python user_input.py ``` 
+        ``` python user_input.py ``` 
    <br>
 4. Input your information and you will get your personalised message
